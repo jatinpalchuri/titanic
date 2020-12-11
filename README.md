@@ -6,9 +6,9 @@
   #   2)predict  age values , replace them and then train , predict on data 
    #  Recieved Higher Accuracy and requires less components if age is precicted beforehand.  
   # .
-  #.
- #.
+  # .
+ # .
  # Submitted as a project For Intor to Ml course
- #Team
- #jp5881
- #tc3142
+ # Team:
+ # jp5881
+ # tc3142
