@@ -8,7 +8,7 @@
   # .
   # .
  # .
- # Submitted as a project For Intor to Ml course
+ # Submitted as a project For Intro to Ml course
  # Team:
  # jp5881
  # tc3142
