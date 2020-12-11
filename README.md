@@ -7,6 +7,14 @@
    #  Recieved Higher Accuracy and requires less components if age is precicted beforehand.  
   # .
   # .
+  # .
+  # Files:
+   ## train.csv-Training data
+   ## test.csv-Test data
+   ## gender_submission-ground truth for test data
+  
+  # .
+  # .
  # .
  # Submitted as a project For Intro to Ml course
  # Team:
